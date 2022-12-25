@@ -34,3 +34,30 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Ignore compiled and minified JavaScript files
+*.min.js
+
+# Ignore compiled and minified CSS files
+*.min.css
+
+# Ignore compiled and minified HTML files
+*.min.html
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build directory
+build/
+
+# Ignore .next directory
+.next/
+
+# Ignore cache directory
+.cache/
+
+# Ignore log files
+*.log
+
+# Ignore map files
+*.map
